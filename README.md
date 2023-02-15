@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sumedhx
+- 👋 Hi, I’m Sumedh.
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Computer Science (Ty Bsc)
+- 🌱 I’m currently Studying Computer Science (Ty Bsc)
 - 📫 How to reach me - Instagram : @sumedhs_
 
 <!---
