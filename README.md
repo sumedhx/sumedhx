@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumedh.
-- 👀 I’m interested in Development
-- 🌱 I’m currently Studying Computer Science (Ty Bsc)
+- 👀 I’m interested in Web Development
+- 🌱 Currently in 3rd Year of Bsc Computer Science
 - 📫 How to reach me - Instagram : @sumedhs_
 
 <!---
