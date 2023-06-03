@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 Currently in 3rd Year of Bsc Computer Science
 - 📫 How to reach me - Instagram : [@sumedhs_](https://www.instagram.com/sumedhs_/)
--                      Linkdlin  : [@sumedhsuralkar](https://www.linkedin.com/in/sumedhsuralkar/)
+-                      Linkdin   : [@sumedhsuralkar](https://www.linkedin.com/in/sumedhsuralkar/)
 
 <!---
 sumedhx/sumedhx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
