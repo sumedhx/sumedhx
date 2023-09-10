@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumedh.
 - 👀 I’m interested in Web Development
-- 🌱 Currently in 3rd Year of Bsc Computer Science
+- 🌱 Currently in MCA at Government College of Eng., Karad
 - 📫 How to reach me -
   - Instagram : [@sumedhs_](https://www.instagram.com/sumedhs_/)
   -  Linkedin   : [@sumedhsuralkar](https://www.linkedin.com/in/sumedhsuralkar/)
