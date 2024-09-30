@@ -6,6 +6,7 @@
   -  Linkedin   : [@sumedhsuralkar](https://www.linkedin.com/in/sumedhsuralkar/)
 
 😎 Badge's earned --
+
 [![An image of @sumedhx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumedhx)](https://holopin.io/@sumedhx)
 
 <!---
