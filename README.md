@@ -1,3 +1,4 @@
+
 # 👋 Hello, I'm Sumedh!  
 🌟 **Frontend Developer | MERN Stack Enthusiast | UI Designer**  
 
@@ -29,6 +30,11 @@
 
 ---
 
+## 🏅 Holopin Badges:
+[![An image of @sumedhx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumedhx)](https://holopin.io/@sumedhx)
+
+---
+
 ## 📫 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumedh99)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
@@ -41,9 +47,7 @@
 💡 "I turn coffee into code and bugs into features!" ☕💻
 
 
-😎 Badge's earned --
 
-[![An image of @sumedhx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumedhx)](https://holopin.io/@sumedhx)
 
 <!---
 sumedhx/sumedhx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
