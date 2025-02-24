@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Sumedh!  
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Sumedh!  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=600&lines=Frontend+Developer+%7C+MERN+Stack+Enthusiast+%7C+UI+Designer)](https://git.io/typing-svg)
 
