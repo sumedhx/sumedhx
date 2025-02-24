@@ -38,6 +38,16 @@
 
 ---
 
+## 🏅 Holopin Badges:
+<p align="center">
+  <a href="https://holopin.io/@sumedhx">
+    <img src="https://holopin.me/sumedhx" width="650px"/>
+  </a>
+</p>
+
+
+---
+
 ## 🏆 Achievements & Contributions:
 - 🚀 **Built a full-stack blog website using MERN**
 - ✨ **Working on a storytelling banner for Retro India**
@@ -45,12 +55,6 @@
 
 ---
 
-## 🏅 Holopin Badges:
-<a href="https://holopin.io/@sumedhx">
-  <img src="https://holopin.me/sumedhx" width="350px"/>
-</a>
-
----
 
 ## 📫 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumedhsuralkar) 
