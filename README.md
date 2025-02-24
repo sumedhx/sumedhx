@@ -37,8 +37,8 @@
 ## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumedhx&theme=tokyonight" alt="GitHub Streak" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sumedhx&show_icons=true&theme=tokyonight" alt="Sumedh's GitHub Stats" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=sumedhx&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumedhx&show_icons=true&theme=tokyonight" alt="Sumedh's GitHub Stats" height="150"/>
 </p>
 
 <p align="center">
