@@ -1,6 +1,8 @@
+# 👋 Hey there, I'm Sumedh!  
 
-# 👋 Hello, I'm Sumedh!  
-🌟 **Frontend Developer | MERN Stack Enthusiast | UI Designer**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&multiline=true&width=600&height=60&lines=Frontend+Developer+%7C+MERN+Stack+Enthusiast+%7C+UI+Designer)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="40%" align="right"/>
 
 🔹 Passionate about **React.js, Node.js, MongoDB**  
 🔹 Exploring **Generative AI & Data Science**  
@@ -9,17 +11,30 @@
 ---
 
 ## 🚀 Skills & Tools:
+
+### 🔹 **Frontend Development**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-323330?style=for-the-badge&logo=webflow&logoColor=white)
+
+### 🔹 **Backend & Database**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🎨 **UI/UX & Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats:
-![Sumedh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumedh99&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumedh99&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sumedhx&theme=tokyonight)  
+![Sumedh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumedhx&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumedhx&layout=compact&theme=tokyonight)
 
 ---
 
@@ -31,21 +46,23 @@
 ---
 
 ## 🏅 Holopin Badges:
-[![An image of @sumedhx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumedhx)](https://holopin.io/@sumedhx)
+<a href="https://holopin.io/@sumedhx">
+  <img src="https://holopin.me/sumedhx" width="350px"/>
+</a>
 
 ---
 
 ## 📫 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumedh99)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumedh99)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumedh99)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumedhsuralkar) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumeshsuralkar) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sumedhs_)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumedhx)  
 
 ---
 
 ## ✨ Fun Fact:
 💡 "I turn coffee into code and bugs into features!" ☕💻
-
 
 
 
