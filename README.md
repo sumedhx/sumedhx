@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&vCenter=true&width=600&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer;UI+Designer)](https://git.io/typing-svg)
 
 
-🔹 Passionate about **React.js, Node.js, MongoDB**  
-🔹 Exploring **Generative AI & Data Science**  
-🔹 Love creating **clean and functional UI/UX**  
+🔹 Always learning, always experimenting
+🔹 Striving to create experiences that are simple, fast, and impactful 
+🔹 Continuously pushing myself to solve real-world problems
 
 ---
 
